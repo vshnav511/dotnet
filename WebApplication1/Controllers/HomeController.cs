@@ -17,6 +17,7 @@ namespace WebApplication1.Controllers
         {
             ViewBag.Message = "Your application description page.";
             var msg = "This is a new message";
+            var msg_1 = "This is another message";
             return View();
         }
 
